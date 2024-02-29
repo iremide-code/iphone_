@@ -1,0 +1,30 @@
+.center{ 
+  padding: 10px;
+  display: block;
+  margin: 0 auto;
+  border-radius:25px ;
+  margin-top:20px ;
+}
+#countdown {
+  padding: 5px;
+  text-align: center;
+  display: flex;
+  gap: 15px;
+  justify-content: left;
+  align-items: center;
+  }
+#countdown p{
+  height: 2.8rem;
+  padding: 0.8rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    background-color: palevioletred;
+    color: white;
+    flex-direction: column;
+    justify-content: center;
+  align-items: center;
+}
+
+  .giveaway {
+    font-size: 2rem;
+  }
